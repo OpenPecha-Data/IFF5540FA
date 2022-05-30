@@ -1,0 +1,26 @@
+id: IFF5540FA
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-05-30T18:55:16.201370'
+last_modified: '2022-05-30T18:55:16.201375'
+parser: null
+source_metadata:
+  title: Drimé Ösal Lingpa Series
+  language: de
+  description: 'Texts by and about Tertön Drimé Ösal Lingpa (dri med ''od gsal gling
+    pa):'
+  volume:
+    f2C0E:
+      title: The Seeds of Faith, A Prayer to the Vidyādhara and Great Tertön Lerab
+        Lingpa
+      base_file: f2C0E.txt
+      order: 1
+      parent: Prayers
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
